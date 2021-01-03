@@ -1,0 +1,6 @@
+1.image background remove ---online in Pixio.com a jay korbo.
+2.photopea.com giye background nia background remove kora image ta bosabo then shift button chepe dhore thik vabe bosay nibo.
+3.then tik chinho dia eliips tool dia image select kore nibo
+4.select>inverse korbo
+5.main layer > restorize korbo 
+6.file > export > png
